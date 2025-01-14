@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final year project "The Agora"<br>🌱 I’m currently learning Android Development<br>⚡ Fun fact Did you know that wombats have cube-shaped poop? They use it to mark their territory, and the shape helps prevent it from rolling away on the uneven terrain of their habitat!
+🔭 I’m currently working on my final year project "The Agora"<br>🌱 I’m currently learning Android Development<br>⚡ Potatoes were the first vegetable to be grown in space! 🚀🥔
 
 
 ## 🌐 Socials:
