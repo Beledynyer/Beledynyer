@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ????<br>🌱 I’m currently learning Android Development<br>⚡ Fun fact: Potatoes were the first vegetable to be grown in space! 🚀🥔
+🔭 I’m currently working on ????<br>🌱 I’m currently learning ???<br>⚡ Fun fact: Potatoes were the first vegetable to be grown in space! 🚀🥔
 
 
 ## 🌐 Socials:
